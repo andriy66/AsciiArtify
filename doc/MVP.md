@@ -1,3 +1,3 @@
 # The demo of the MVC Ascii Artify
 
-![demo.gif](..%2Fdemo.gif)
+![demo.gif](..%2Fresources%2Fdemo.gif)
