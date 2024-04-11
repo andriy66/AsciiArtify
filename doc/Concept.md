@@ -14,10 +14,13 @@
 | Documentation      | Extensive documentation available          | Good documentation available            | Good documentation available         |
 
 # Minikube
+
 ![651159.gif](..%2F..%2F651159.gif)
 
 # K3S
+
 ![651287.gif](..%2F..%2F651287.gif)
 
 # Kind
+
 ![kind.gif](..%2F..%2Fkind.gif)
