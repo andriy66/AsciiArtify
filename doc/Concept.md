@@ -15,12 +15,19 @@
 
 # Minikube
 
-![651159.gif](..%2F..%2F651159.gif)
+![minikube.gif](..%2Fresources%2Fminikube.gif)
 
 # K3S
 
-![651287.gif](..%2F..%2F651287.gif)
+![k3s.gif](..%2Fresources%2Fk3s.gif)
 
 # Kind
 
-![kind.gif](..%2F..%2Fkind.gif)
+![kind.gif](..%2Fresources%2Fkind.gif)
+
+# Conclusion
+**Kind** is good for local development and testing of Kubernetes applications. Using for creating lightweight, self-contained Kubernetes clusters using Docker containers.
+
+**K3S** is for lightweight Kubernetes deployments in resource-constrained environments. Using for edge computing, IoT, development environments, testing, and production deployments.
+
+**Minikube**  is for local development and testing of Kubernetes applications with a focus on compatibility with cloud environments. Using for developing and testing applications locally before deploying them to a production Kubernetes cluster.
