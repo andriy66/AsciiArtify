@@ -31,3 +31,5 @@
 **K3S** is for lightweight Kubernetes deployments in resource-constrained environments. Using for edge computing, IoT, development environments, testing, and production deployments.
 
 **Minikube**  is for local development and testing of Kubernetes applications with a focus on compatibility with cloud environments. Using for developing and testing applications locally before deploying them to a production Kubernetes cluster.
+
+**For conclusion** our team chosen the **Kind**, because it meets the project requirements.
